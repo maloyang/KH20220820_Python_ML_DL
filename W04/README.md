@@ -8,6 +8,22 @@
 
 
 ----
+## 本周內容
+
+- 資料庫應用(以MySQL、MariaDB為例)
+- 實作：收集資料到資料庫
+- numpy
+- matplotlib
+- pandas
+
+** 參考資料來源:
+- https://numpy.org/
+- https://numpy.org/doc/stable/
+- https://matplotlib.org/
+- https://pandas.pydata.org/docs/user_guide/index.html
+- https://github.com/victorgau/KHPY20180820
+
+----
 
 ## W01
 
